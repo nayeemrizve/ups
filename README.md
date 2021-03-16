@@ -6,22 +6,4 @@ The recent research in semi-supervised learning (SSL) is mostly dominated by con
 
 This repository is implemented using PyTorch and it includes code for running the SSL experiments on CIFAR-10 and CIFAR-100 datasets.
 
-<p align="center">
-  <img src="/figures/conceptual-1.png" width="500">
-</p>
-<p>
-  <em>Approach Overview: Shapes represent different transformations and colors represent different classes. While the invariant features provide better discrimination, the equivariant features help us learn the internal structure of the data manifold. These complimentary representations help us generalize better to new tasks with only a few training samples. By jointly leveraging the strengths of equivariant and invariant features, our method achieves significant improvement over baseline (bottom row).</em>
-</p>
-
-<p align="center">
-  <img src="/figures/training.png" width="800">
-</p>
-<p>
-  <em>Network Architecture during Training: A series of transformed inputs (transformed by applying transformations T1...TM) are
-provided to a shared feature extractor fΘ. The resulting embedding is forwarded to three parallel heads fΦ, fΘ and fΩ that focus on
-learning equivariant features, discriminative class boundaries, and invariant features, respectively. The resulting output representations are
-distilled from an old copy of the model (teacher model on the right) across multiple-heads to further improve the encoded representations.
-Notably, a dedicated memory bank of negative samples helps stabilize our invariant contrastive learning.</em>
-</p>
-
-## Dependencies
+<center> <h2>Code Coming Soon</h2> </center>
