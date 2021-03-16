@@ -6,4 +6,4 @@ The recent research in semi-supervised learning (SSL) is mostly dominated by con
 
 This repository is implemented using PyTorch and it includes code for running the SSL experiments on CIFAR-10 and CIFAR-100 datasets.
 
-<center> <h2>Code Coming Soon</h2> </center>
+<center> <h2>Code Coming Soon...</h2> </center>
