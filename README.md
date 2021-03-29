@@ -6,7 +6,21 @@ The recent research in semi-supervised learning (SSL) is mostly dominated by con
 
 This repository is implemented using PyTorch and it includes code for running the SSL experiments on CIFAR-10 and CIFAR-100 datasets.
 
-<center> <h2>Code Coming Soon...</h2> </center>
+## Dependencies
+This code requires the following:
+
+* Python >= 3.6
+* numpy==1.16.2
+* Pillow=5.4.1
+* scikit-learn=0.21.1
+* scipy==1.2.1
+* torch=1.7.0
+* torchvision=0.8.1
+* tqdm==4.36.1
+* tensorboardx=1.7
+* tensorboard=1.13.1
+
+run `pip3 install -r requirements.txt` to install all the dependencies.
 
 ## Citation
 ```
