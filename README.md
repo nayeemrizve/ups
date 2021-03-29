@@ -22,6 +22,12 @@ This code requires the following:
 
 run `pip3 install -r requirements.txt` to install all the dependencies.
 
+## Training
+```shell
+# For CIFAR10 4000 Labels
+python3 train-cifar.py --dataset "cifar10" --n-lbl 4000 --class-blnc 7 --split-txt "run1" --arch "cnn13"
+```
+
 ## Citation
 ```
 @inproceedings{rizve2021in,
