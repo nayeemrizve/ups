@@ -26,6 +26,15 @@ run `pip3 install -r requirements.txt` to install all the dependencies.
 ```shell
 # For CIFAR10 4000 Labels
 python3 train-cifar.py --dataset "cifar10" --n-lbl 4000 --class-blnc 7 --split-txt "run1" --arch "cnn13"
+
+# For CIFAR10 1000 Labels
+python3 train-cifar.py --dataset "cifar10" --n-lbl 1000 --class-blnc 7 --split-txt "run1" --arch "cnn13"
+
+# For CIFAR100 10000 Labels
+python3 train-cifar.py --dataset "cifar100" --n-lbl 10000 --class-blnc 1 --split-txt "run1" --arch "cnn13"
+
+# For CIFAR100 4000 Labels
+python3 train-cifar.py --dataset "cifar100" --n-lbl 4000 --class-blnc 1 --split-txt "run1" --arch "cnn13"
 ```
 
 ## Citation
