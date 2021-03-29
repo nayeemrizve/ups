@@ -8,4 +8,12 @@ This repository is implemented using PyTorch and it includes code for running th
 
 <center> <h2>Code Coming Soon...</h2> </center>
 
-##Citation
+## Citation
+@inproceedings{
+rizve2021in,
+title={In Defense of Pseudo-Labeling: An Uncertainty-Aware Pseudo-label Selection Framework for Semi-Supervised Learning},
+author={Mamshad Nayeem Rizve and Kevin Duarte and Yogesh S Rawat and Mubarak Shah},
+booktitle={International Conference on Learning Representations},
+year={2021},
+url={https://openreview.net/forum?id=-ODN6SbiUU}
+}
