@@ -10,8 +10,7 @@ This repository is implemented using PyTorch and it includes code for running th
 
 ## Citation
 ```
-@inproceedings{
-rizve2021in,
+@inproceedings{rizve2021in,
 title={In Defense of Pseudo-Labeling: An Uncertainty-Aware Pseudo-label Selection Framework for Semi-Supervised Learning},
 author={Mamshad Nayeem Rizve and Kevin Duarte and Yogesh S Rawat and Mubarak Shah},
 booktitle={International Conference on Learning Representations},
