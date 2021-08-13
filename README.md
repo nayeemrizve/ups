@@ -6,6 +6,9 @@ The recent research in semi-supervised learning (SSL) is mostly dominated by con
 
 This repository is implemented using PyTorch and it includes code for running the SSL experiments on CIFAR-10 and CIFAR-100 datasets.
 
+## Presentation
+[![Presentation: UPS](https://yt-embed.herokuapp.com/embed?v=NfE1CXqzE8s)](https://www.youtube.com/watch?v=NfE1CXqzE8s&start=17 "Presentation: UPS")
+
 ## Dependencies
 This code requires the following:
 
