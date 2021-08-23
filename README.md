@@ -17,7 +17,7 @@ This code requires the following:
 * Pillow==5.4.1
 * scikit-learn==0.21.1
 * scipy==1.2.1
-* torch==1.3.0
+* torch==1.3.1
 * torchvision==0.4.2
 * tqdm==4.36.1
 * tensorboardx==1.7
